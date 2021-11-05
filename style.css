@@ -1,0 +1,19 @@
+body{
+    background-color: gold;
+    color: navy;
+}
+.heading{
+    font-size: 30px;
+    width: 100%;
+}
+.name_of_objects{
+    width: 100%;
+    border-radius: 20px;
+    border: 2px solid midnightblue;
+}
+#camera,#result{
+    width: 350px;
+    height: 350px;
+    border: 2px solid midnightblue;
+    border-radius: 25px;
+}
